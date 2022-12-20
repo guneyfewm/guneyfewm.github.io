@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5aae0b27.css",
+    "main.js": "/static/js/main.71184ef4.js",
+    "static/media/cryptomaster.gif": "/static/media/cryptomaster.913a8e174676f4ef3622.gif",
+    "static/media/shopbest.gif": "/static/media/shopbest.627243918ecc82fa4801.gif",
+    "static/media/twitter.gif": "/static/media/twitter.3ebcb448acf89f596c74.gif",
+    "static/media/resume.pdf": "/static/media/resume.930e1a436fa306c527f6.pdf",
+    "index.html": "/index.html",
+    "main.5aae0b27.css.map": "/static/css/main.5aae0b27.css.map",
+    "main.71184ef4.js.map": "/static/js/main.71184ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aae0b27.css",
+    "static/js/main.71184ef4.js"
+  ]
+}
