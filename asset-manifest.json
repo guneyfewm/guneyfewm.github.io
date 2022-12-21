@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/guneyfewm.github.io/static/css/main.5aae0b27.css",
-    "main.js": "/guneyfewm.github.io/static/js/main.e3a8ebdb.js",
+    "main.js": "/guneyfewm.github.io/static/js/main.561e6c03.js",
     "static/media/cryptomaster.gif": "/guneyfewm.github.io/static/media/cryptomaster.913a8e174676f4ef3622.gif",
     "static/media/shopbest.gif": "/guneyfewm.github.io/static/media/shopbest.627243918ecc82fa4801.gif",
     "static/media/twitter.gif": "/guneyfewm.github.io/static/media/twitter.3ebcb448acf89f596c74.gif",
     "static/media/resume.pdf": "/guneyfewm.github.io/static/media/resume.930e1a436fa306c527f6.pdf",
     "index.html": "/guneyfewm.github.io/index.html",
     "main.5aae0b27.css.map": "/guneyfewm.github.io/static/css/main.5aae0b27.css.map",
-    "main.e3a8ebdb.js.map": "/guneyfewm.github.io/static/js/main.e3a8ebdb.js.map"
+    "main.561e6c03.js.map": "/guneyfewm.github.io/static/js/main.561e6c03.js.map"
   },
   "entrypoints": [
     "static/css/main.5aae0b27.css",
-    "static/js/main.e3a8ebdb.js"
+    "static/js/main.561e6c03.js"
   ]
 }
